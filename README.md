@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">CSE student from NIT Warangal</h3>
+<h3 align="center">CSE student at NIT Warangal</h3>
 
 <p align="left"> <a href="https://twitter.com/wth_adit" target="blank"><img src="https://img.shields.io/twitter/follow/wth_adit?logo=twitter&style=for-the-badge" alt="wth_adit" /></a> </p>
 
