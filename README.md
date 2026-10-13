@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🧠 About Me:<br><br>🛠️ I’m currently working on  <br>Polishing code, Learning and breaking things (sometimes on purpose).<br><br>🤝 I’m looking to collaborate on  <br>Fun side-projects, dev tools, or anything that helps people and makes me learn.<br><br>📚 I’m currently learning  <br>New techs,  I’m always jumping into something unfamiliar and exciting.<br><br>⚡ Fun fact  <br>I'm a proudly lazy dev always hunting clever shortcuts that get the job done faster.
+## 🧠 About Me:<br><br>🛠️ I’m currently working on  <br> Polishing code, Learning and breaking things (sometimes on purpose).<br><br>🤝 I’m looking to collaborate on  <br>Fun side-projects, dev tools, or anything that helps people and makes me learn.<br><br>📚 I’m currently learning  <br>New techs,  I’m always jumping into something unfamiliar and exciting.<br><br>⚡ Fun fact  <br>I'm a proudly lazy dev always hunting clever shortcuts that get the job done faster.
 
 
 ## 🌐 Socials:
